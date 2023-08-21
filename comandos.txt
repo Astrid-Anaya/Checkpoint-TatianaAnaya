@@ -1,0 +1,50 @@
+  124  git config user.email
+  125  git remote add origin "https://github.com/Astrid-Anaya/Checkpoint-TatianaAnaya.git"
+  126  clean
+  127  git clean
+  128  git clone https://github.com/Astrid-Anaya/Checkpoint-TatianaAnaya.git
+  129  touch main.js, index.html
+  130  touch main.js
+  131  git add.
+  132  git add .
+  133  git commit -m "commit 01 de TatianaAnaya"
+  134  git status
+  135  git push origin main
+  136  git branch feature
+  137  git checkout feature
+  138  mkadir Hardware Software SeguridadInformatica
+  139  mkdir Hardware Software SeguridadInformatica
+  140  cd Hardware
+  141  touch resumen.txt
+  142  cd Software
+  143  cd - Software
+  144  cd -Software
+  145  cd ..
+  146  cd Software
+  147  touch resumen.txt
+  148  cd ..
+  149  cd SeguridadInformatica
+  150  touch resumen.txt
+  151  git add .
+  152  git status
+  153  cd..
+  154  cd ..
+  155  git status
+  156  git add .
+  157  git status
+  158  git commit -m "commit 02 de TatianaAnaya"
+  159  git push origin feature
+  160  git chechkout main
+  161  git checkout main
+  162  git mv main.js resumenHardware.txt
+  163  git mv index.html resumenSoftware.txt
+  164* echo "Spotify Autocad Skype" >> resumenSoftware.txt
+  165  echo "Escaner Monitor Teclado" >> resumenHardware.txt
+  166  echo "Memoria RAM Memoria caché Memoria ROM" >> resumenHardware.txt
+  167  touch comandos.txt
+  168  history 20 > comandos.txt
+  169  cat/dev/null > comandos.txt
+  170  cat /dev/null > comandos.txt
+  171  history > comandos.txt
+  172  cat /dev/null > comandos.txt
+  173  history 50 > comandos.txt
